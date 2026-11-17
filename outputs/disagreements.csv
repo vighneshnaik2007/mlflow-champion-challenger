@@ -1,0 +1,6 @@
+input,reference,model_a_prediction,model_b_prediction,comment
+another in-your-face wallow in the lower depths made by people who have never sung those blues . ,negative,positive,negative,Review the wording and context to understand why the two models disagree.
+manages to be both repulsively sadistic and mundane . ,negative,negative,positive,Review the wording and context to understand why the two models disagree.
+"outer-space buffs might love this film , but others will find its pleasures intermittent . ",negative,positive,negative,Review the wording and context to understand why the two models disagree.
+falls neatly into the category of good stupid fun . ,positive,positive,negative,Review the wording and context to understand why the two models disagree.
+no telegraphing is too obvious or simplistic for this movie . ,negative,negative,positive,Review the wording and context to understand why the two models disagree.

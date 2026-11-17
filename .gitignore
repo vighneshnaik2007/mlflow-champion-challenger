@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+mlruns/
+mlflow.db
+mlflow.db-*
+mlartifacts/
+
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+.vscode/
+.DS_Store
+Thumbs.db

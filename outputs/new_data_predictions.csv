@@ -1,0 +1,9 @@
+text,prediction,confidence
+The movie was absolutely wonderful and entertaining.,positive,0.9996838569641113
+I did not enjoy this film at all.,negative,0.9976301193237305
+The acting was brilliant and the story was beautiful.,positive,0.9996240139007568
+This was a boring and disappointing experience.,negative,0.9992952346801758
+"I expected much better, but the product was excellent.",positive,0.9986786246299744
+The service was terrible and I will not return.,negative,0.9950242638587952
+"Although the beginning was slow, the ending was fantastic.",positive,0.9996329545974731
+I cannot recommend this because it was poorly made.,negative,0.9976473450660706

@@ -1,0 +1,28 @@
+{
+    "student_usn": "1MS25CI143",
+    "dataset": "GLUE-SST2-validation",
+    "samples": 200,
+    "seed": 143,
+    "device": "cpu",
+    "model_a": {
+        "accuracy": 0.905,
+        "precision": 0.8823529411764706,
+        "recall": 0.9278350515463918,
+        "f1": 0.9045226130653267,
+        "macro_f1": 0.9049976249406235,
+        "avg_latency_ms": 12.715065499942284,
+        "total_inference_s": 2.543013099988457
+    },
+    "model_b": {
+        "accuracy": 0.92,
+        "precision": 0.8932038834951457,
+        "recall": 0.9484536082474226,
+        "f1": 0.92,
+        "macro_f1": 0.92,
+        "avg_latency_ms": 34.68930350005394,
+        "total_inference_s": 6.937860700010788
+    },
+    "delta_macro_f1": 0.015002375059376516,
+    "latency_guardrail_passed": true,
+    "winner": "B_sentiment_textattack-bert-sst2"
+}
